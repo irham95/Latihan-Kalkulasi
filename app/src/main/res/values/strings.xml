@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Kalkulasi</string>
+    <string name="very_severely_underweight">Berat badan anda sangat kurang Irham :)</string>
+    <string name="severely_underweight">Berat badan anda kurang Irham :)</string>
+    <string name="underweight">Berat badan anda sedikit normal kok Irham :)</string>
+    <string name="normal">Berat badan kamu normal Irham :)</string>
+    <string name="overweight">Berat badan kamu kelebihan sedikit Irham :)</string>
+    <string name="obese_class_i">Wow kamu obesitas Irham :)</string>
+    <string name="obese_class_ii">Kamu cukup obesitas Irham :)</string>
+    <string name="obese_class_iii">Kamu sangat obesitas Irham :)</string>
+</resources>
